@@ -1,14 +1,14 @@
-﻿using Log.Enum;
-using NetDirectory.Enum;
-using System;
+﻿using System;
 using System.Diagnostics;
 using System.IO;
 using System.Net.NetworkInformation;
 using System.Runtime.InteropServices;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
+using Tool.Log.Enum;
+using Tool.NetDirectory.Enum;
 
-namespace NetDirectory
+namespace Tool.NetDirectory
 {
     public delegate void EventHandler(ConnectArgs args);
 

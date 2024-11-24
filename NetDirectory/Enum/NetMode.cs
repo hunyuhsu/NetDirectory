@@ -1,4 +1,4 @@
-﻿namespace NetDirectory.Enum
+﻿namespace Tool.NetDirectory.Enum
 {
     public enum NetMode
     {

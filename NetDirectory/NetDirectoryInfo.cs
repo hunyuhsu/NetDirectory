@@ -1,6 +1,6 @@
-﻿using NetDirectory.Enum;
+﻿using Tool.NetDirectory.Enum;
 
-namespace NetDirectory
+namespace Tool.NetDirectory
 {
     public partial class NetDirectory
     {
